@@ -12,7 +12,7 @@
 - 🎓 B.Tech CS student at Vivekananda Institute of Professional Studies (2024–2028)
 - 🤖 Focused on machine learning, data pipelines and full-stack apps
 - 🏢 Former IT Intern at Tata Power DDL (Business Analytics) and Data Science Intern at Macky's Tech
-- 🔍 Open to ML / Data internships
+- 🔍 Open  internships
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,12 +33,6 @@
 | [**RecoShop**](https://github.com/Core-tech250/RecoShop) | E-commerce recommendation engine using collaborative and content-based filtering |
 | [**Nworkflow**](https://github.com/Core-tech250/Nworkflow) | Full-stack job-hunt workflow platform |
 | [**MiniRelfDB**](https://github.com/Core-tech250/minirefdb) | LSM-Tree based NewSQL database engine for write-heavy workloads |
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Core-tech250&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Core-tech250&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-goel-28826734b)
